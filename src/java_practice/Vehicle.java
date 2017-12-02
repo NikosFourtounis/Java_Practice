@@ -1,14 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package java_practice;
-
 /**
  *
  * @author NFourtounis
  */
 public class Vehicle {
+    private String ID;
+    private String type;
     
 }
